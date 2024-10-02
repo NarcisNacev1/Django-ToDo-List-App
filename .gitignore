@@ -1,2 +1,38 @@
-.idea/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
 .venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+*.sqlite3
+*.pyc
+*.pyd
+*.db
+*.pot
+*.pyc
+*.db-journal
+media/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Backup files
+*~
+*.bak
+*.swp
